@@ -75,7 +75,7 @@
       (mirror false)
       (drillshape 0)
       (scaleselection 1)
-      (outputdirectory "sweep2gerber")
+      (outputdirectory "./timoyoungster_sweep")
     )
   )
 
