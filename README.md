@@ -1,4 +1,5 @@
 # keyboard-journey
+*(This repo is for my future self)*
 - some crappy plastic full sized keyboard (membrane)
 - a sharkoon full sized keyboard (membrane)
 - a corsair K70 (mechanical) *not sure about the exact model*
