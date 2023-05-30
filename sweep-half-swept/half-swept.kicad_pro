@@ -233,7 +233,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "half-swept.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
