@@ -1,0 +1,6 @@
+# TODO
+- add arrows - done
+- fix Y - probably needs some resoldering
+- fix round braces
+- fix exclamation mark
+- fix equals and space in 2nd layer
