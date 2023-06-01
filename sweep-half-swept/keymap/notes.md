@@ -21,10 +21,12 @@ as the command flashes the firmware directly after compilation)*
 For the left side:
 ```
 qmk flash -bl uf2-split-left -e CONVERT_TO=elite_pi <qmk configurator json export>
+qmk flash -bl uf2-split-left -e CONVERT_TO=elite_pi timo.json
 ```
 For the right side:
 ```
 qmk flash -bl uf2-split-right -e CONVERT_TO=elite_pi <qmk configurator json export>
+qmk flash -bl uf2-split-right -e CONVERT_TO=elite_pi timo.json
 ```
 
 # ELITE-PI - BOOT MODE
