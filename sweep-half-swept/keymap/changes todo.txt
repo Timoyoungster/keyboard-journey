@@ -4,3 +4,4 @@
 - fix round braces
 - fix exclamation mark
 - fix equals and space in 2nd layer
+- change homerow mods to be on the little finger
