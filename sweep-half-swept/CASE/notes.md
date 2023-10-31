@@ -13,4 +13,4 @@
 
 ### making space for the cables
 - if possible let the PCB sit higher than the bottom piece’s wall, so that there is enough room for the USB-C and AUX cable
-- else make a big enough cylindrical “dent”/cutout for the aux port and a similar one in USB-C shape
+- else make a big enough cylindrical "dent"/cutout for the aux port and a similar one in USB-C shape
