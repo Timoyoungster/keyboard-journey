@@ -1,6 +1,6 @@
 # Notes
 ## Failed Ideas
-- screwing a plate onto the bottom piece to hold the PCB doesn’t work because the Elite-PI is on the edge
+- screwing a plate onto the bottom piece to hold the PCB from the top doesn’t work because the Elite-PI is on the edge
 - using cylindrical extrusions to fit the top to the bottom doesn’t work because the cylinders break easily when a bit of rotational force is applied
 - using velcro to attach the PCB to the bottom piece doesn’t work as it makes the PCB feel mushy and if the Elite-PI’s side is pressed down it could damage the cables/ports
 
