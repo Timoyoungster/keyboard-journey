@@ -1,0 +1,3 @@
+[submodule "sweep-half-swept/keymap/qmk_firmware"]
+	path = sweep-half-swept/keymap/qmk_firmware
+	url = git@github.com:Timoyoungster/qmk_firmware.git
