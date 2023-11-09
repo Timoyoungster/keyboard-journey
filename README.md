@@ -6,4 +6,4 @@
 - a razer blackwidow chroma (mechanical; green switches)
 - a razer blackwidow chroma (mechanical; orange switches)
 - a razer deathstalker pro v2 (mechanical; *i think orange switches*)
-- *in the process of building my first ferris sweep half-swept*
+- a ferris sweep half-swept (mechanical; Kailh Low Profile Choc Switches Pink (linear / 20gf))

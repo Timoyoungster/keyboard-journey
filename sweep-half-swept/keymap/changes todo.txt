@@ -1,7 +1,0 @@
-# TODO
-- add arrows - done
-- fix Y - probably needs some resoldering - done
-- fix round braces - done
-- fix exclamation mark - done
-- fix equals and space in 2nd layer - done
-- change homerow mods to be on the little finger - done
